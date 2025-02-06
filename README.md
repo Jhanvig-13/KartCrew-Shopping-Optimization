@@ -20,4 +20,19 @@ This is a Tkinter-based GUI application that helps users optimize their supermar
 
 ## Installation
 - Clone the repository:
-  
+git clone https://github.com/Jhanvig-13/Shopping-Optimization.git
+
+- Navigate to the project directory:
+cd Shopping-Optimization
+
+- Run the script:
+python Kartcrewcode.py
+
+## Application Interface
+- Select an item from the dropdown menu and click Add.
+
+- View the selected items along with their total weight and remaining capacity.
+
+- Click Optimize to check if the selection meets the weight constraint.
+
+- Click Remove to remove the last added item if necessary.
